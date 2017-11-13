@@ -1,6 +1,6 @@
 # SpeechClassifier
 
-Audio training, analyzing and Speaker Diarization.  
+Audio training, analyzing and Speaker Diarization using LIUM http://www-lium.univ-lemans.fr/diarization/doku.php/welcome.  
 
 # Requirements
 1. Python 2.7
