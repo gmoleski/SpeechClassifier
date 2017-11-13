@@ -1,0 +1,11 @@
+;; cluster S0 [ score:FS = -32.50216588812016 ] [ score:FT = -31.89546231471343 ] [ score:MS = -32.06091256468679 ] [ score:MT = -31.678747930322203 ] 
+diarizationExample 1 0 607 M T U S0
+;; cluster S1 [ score:FS = -32.18364567337666 ] [ score:FT = -32.47206513622177 ] [ score:MS = -31.682717105510964 ] [ score:MT = -32.2356841159504 ] 
+diarizationExample 1 609 509 M S U S1
+diarizationExample 1 1591 292 M S U S1
+diarizationExample 1 2784 698 M S U S1
+;; cluster S2 [ score:FS = -32.187670607252926 ] [ score:FT = -31.44363203317014 ] [ score:MS = -32.95910054262823 ] [ score:MT = -32.37482912500432 ] 
+diarizationExample 1 1118 473 F T U S2
+diarizationExample 1 1883 901 F T U S2
+;; cluster S6 [ score:FS = -33.667945772096935 ] [ score:FT = -32.72128025573832 ] [ score:MS = -32.0550949903546 ] [ score:MT = -31.53696711843286 ] 
+diarizationExample 1 3482 714 M T U S6
