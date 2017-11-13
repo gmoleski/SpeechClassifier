@@ -1,0 +1,6 @@
+;; cluster S0 [ score:FS = -32.50216588812016 ] [ score:FT = -31.89546231471343 ] [ score:MS = -32.06091256468679 ] [ score:MT = -31.678747930322203 ] 
+testDiarization 1 0 100 M T U S0
+;; cluster S1 [ score:FS = -32.18364567337666 ] [ score:FT = -32.47206513622177 ] [ score:MS = -31.682717105510964 ] [ score:MT = -32.2356841159504 ] 
+testDiarization 1 101 400 F S U S1
+testDiarization 1 502 100 F S U S1
+

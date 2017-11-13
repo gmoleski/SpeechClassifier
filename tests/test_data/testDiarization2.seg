@@ -1,0 +1,2 @@
+;; cluster S0 [ score:FS = -32.23552266121307 ] [ score:FT = -32.53590272596297 ] [ score:MS = -31.711222382371506 ] [ score:MT = -32.28821361965131 ] 
+testDiarization2 1 0 1497 M S U S0
