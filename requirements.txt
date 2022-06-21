@@ -34,7 +34,7 @@ lockfile==0.12.2
 menuinst==1.4.10
 mock==2.0.0
 msgpack-python==0.4.8
-numpy==1.13.3
+numpy==1.22.0
 oauth2client==4.0.0
 packaging==16.8
 pandas==0.21.0
